@@ -1,4 +1,4 @@
-# 2023-Personalized-Fitness-Application
+# 2023-Hons-CPS-Application
 1/2 semester long partner project to explore different MATLAB features. 
 To use:
 1) Double click ClarosWeaver.mlapp in MATLAB
